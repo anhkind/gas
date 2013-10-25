@@ -1,6 +1,6 @@
-h1. gas - manage your git author accounts
+"!http://travis-ci.org/anhkind/simple_gas.png!":http://travis-ci.org/anhkind/simple_gas
 
-"!http://travis-ci.org/walle/gas.png!":http://travis-ci.org/walle/gas
+h1. simple_gas (gas rework)
 
 h2. Description
 
@@ -10,7 +10,7 @@ h2. Installation
 
 The best way to install gas is with RubyGems:
 
-bc. $ [sudo] gem install gas
+bc. $ [sudo] gem install simple_gas
 
 You can install from source:
 
