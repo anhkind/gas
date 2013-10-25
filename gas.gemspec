@@ -6,7 +6,7 @@ require "gas/version"
 Gem::Specification.new do |s|
   s.name        = "simple_gas"
   s.version     = Gas::VERSION
-  s.authors     = "Fredrik Wallgren"
+  s.authors     = "Fredrik Wallgren (re-work Anh Nguyen)"
   s.email       = "fredrik.wallgren@gmail.com"
   s.homepage    = "https://github.com/anhkind/gas"
   s.summary     = "Manage your git author accounts"
