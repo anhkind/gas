@@ -1,4 +1,4 @@
-"!http://travis-ci.org/anhkind/simple_gas.png!":http://travis-ci.org/anhkind/simple_gas
+"!https://travis-ci.org/anhkind/simple_gas.png!":https://travis-ci.org/anhkind/simple_gas
 
 h1. simple_gas (gas rework)
 
