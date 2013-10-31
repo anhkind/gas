@@ -16,7 +16,7 @@ module Gas
 
       if config.nil?
         if !File.exists? @config_file
-          Dir::mkdir(@gas_dir)
+          FileUtils.makedirs @gas_dir
           FileUtils.touch @config_file
         end
 
